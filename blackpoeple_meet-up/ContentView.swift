@@ -11,7 +11,7 @@ struct ContentView: View {
         var body: some View {
             Text("Hello, world!, this is my new application")
                 .padding()
-            Text("Testcommments")
+            Text("Test-commments")
                 .opacity(0);
            // var bucketList: [String]
             

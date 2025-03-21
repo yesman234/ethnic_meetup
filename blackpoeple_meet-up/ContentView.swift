@@ -9,7 +9,7 @@ import SwiftUI
 
 struct ContentView: View {
         var body: some View {
-            Text("Hello, world!, this is my new application")
+            Text("Ios emulator Xcode")
                 .padding()
             Text("Test-commments")
                 .opacity(0);

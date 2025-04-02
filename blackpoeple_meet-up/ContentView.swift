@@ -8,15 +8,15 @@
 import SwiftUI
 
 struct ContentView: View {
-        var body: some View {
-            Text("Ios emulator Xcode")
-                .padding()
-            Text("Test-commments")
-                .opacity(0);
-           // var bucketList: [String]
-            
-    
+    var body: some View {
+        Text("Black poeple meet up")
+            .frame(width: 200,height:70)
+            .border(Color.green)
+        Button(/*@START_MENU_TOKEN@*/"Button"/*@END_MENU_TOKEN@*/) {
+        //action onClick
         }
+    }
+    
     
 }
 

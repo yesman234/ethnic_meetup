@@ -12,9 +12,6 @@ struct ContentView: View {
         Text("Black poeple meet up")
             .frame(width: 200,height:70)
             .border(Color.green)
-        Button(/*@START_MENU_TOKEN@*/"Button"/*@END_MENU_TOKEN@*/) {
-        //action onClick
-        }
     }
     
     
